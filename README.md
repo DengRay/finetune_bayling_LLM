@@ -11,3 +11,4 @@ UCAS course of Practices in Training General Large Models
 - we form the self-recognition train data
 - we focus on the specific area of safe dialogue and Alignment with Human Values
 - take the fogetting of Model Parameter into consideration, we well design the train set
+- you can get our instruction at:(https://drive.google.com/file/d/1LHD6V-aDrMwHyLunj9SvqE75cXJkPa7n/view?usp=share_link)
